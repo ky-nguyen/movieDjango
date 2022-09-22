@@ -3,5 +3,5 @@ from django.views.generic import ListView, DetailView
 # Create your views here.
 
 
-class ModelNameList(ListView):
+class MovieList(ListView):
     pass
